@@ -14,7 +14,7 @@ interface RegistroMetrica {
 
 export default function App() {
   const [iniciado, setIniciado] = useState(false);
-  const [modoCuento, setModoCuento] = useState<'controles' | 'video'>('video');
+  const [modoCuento] = useState<'controles' | 'video'>('video');
   const [idEscenaActual, setIdEscenaActual] = useState(sesion1.escenaInicial);
   const [metricas, setMetricas] = useState<RegistroMetrica[]>([]);
 
