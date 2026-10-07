@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { LienzoCuento } from './motor/LienzoCuento';
 import { LienzoVideo } from './motor/LienzoVideo';
 import { sesion1 } from './datos/sesion1.datos';
