@@ -18,25 +18,21 @@ export default function App() {
   const [idEscenaActual, setIdEscenaActual] = useState(sesion1.escenaInicial);
   const [metricas, setMetricas] = useState<RegistroMetrica[]>([]);
 
+  const [escala, setEscala] = useState(1);
+
   // Escalar para forzar 16:9
   useEffect(() => {
     const ajustarEscala = () => {
-      const contenedor = document.getElementById('contenedor-16-9');
-      if (!contenedor) return;
-
       const windowRatio = window.innerWidth / window.innerHeight;
       const targetRatio = 16 / 9;
 
-      let scale = 1;
       if (windowRatio < targetRatio) {
         // Pantalla más estrecha (ej. tablet vertical o monitor 4:3), ajustar por ancho
-        scale = window.innerWidth / 1920;
+        setEscala(window.innerWidth / 1920);
       } else {
         // Pantalla más ancha, ajustar por alto
-        scale = window.innerHeight / 1080;
+        setEscala(window.innerHeight / 1080);
       }
-
-      contenedor.style.transform = `scale(${scale})`;
     };
 
     window.addEventListener('resize', ajustarEscala);
@@ -124,12 +120,17 @@ export default function App() {
   }
 
   return (
-    <div className="w-screen h-screen bg-black overflow-hidden flex items-center justify-center">
-      {/* Contenedor estricto 16:9 (1920x1080) centrado y escalado */}
+    <div className="w-screen h-screen bg-black overflow-hidden relative">
+      {/* Contenedor estricto 16:9 (1920x1080) con centrado absoluto y escala precisa */}
       <div
         id="contenedor-16-9"
-        className="relative origin-center bg-zinc-900 shadow-2xl"
-        style={{ width: '1920px', height: '1080px' }}
+        className="absolute top-1/2 left-1/2 bg-zinc-900 shadow-2xl"
+        style={{ 
+          width: '1920px', 
+          height: '1080px',
+          transform: `translate(-50%, -50%) scale(${escala})`,
+          transformOrigin: 'center center'
+        }}
       >
         {escenaActual ? (
           modoCuento === 'controles' ? (
