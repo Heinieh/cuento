@@ -1,0 +1,707 @@
+
+
+ FACULTAD DE HUMANIDADES
+ESCUELA PROFESIONAL DE EDUCACIÓN INICIAL
+ 
+Cuentos digitales interactivos para fortalecer la atención sostenida en niños de 5 años de una institución educativa de Trujillo, 2026
+ 
+ 
+Tesis para obtener el título profesional de:
+Licenciada en Educación Inicial
+
+  Autora:
+López Puitiza, Miriam Magaly (orcid.org/0000-0002-0404-3150)
+
+
+Asesora:
+Mgtr. Gaytan Reyna, Sassy Emperatriz (orcid.org/0009-0002-5186-7045)
+
+  
+Línea de investigación:
+Didáctica y Evaluación de los Aprendizajes
+ 
+Línea de responsabilidad social universitaria:
+Apoyo a la reducción de brechas y carencias en la educación en todos los niveles
+ 
+TRUJILLO — PERÚ
+2026
+Declaratoria de autenticidad de la asesora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaratoria de originalidad de la autora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dedicatoria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agradecimiento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Índice de contenidos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Índice de tablas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Índice de figuras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resumen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+
+I. Introducción
+
+Durante la primera infancia, la atención sostenida es una función cognitiva fundamental. La atención sostenida permite a los niños pequeños mantenerse enfocados en una tarea en particular mientras ignoran estímulos distractores externos, siendo una capacidad crucial para el proceso de enseñanza. La capacidad de un niño para desarrollar atención sostenida debe ser monitoreada ya que períodos largos de atención forman la base para procesos cognitivos más complejos, también permite la identificación temprana de niños con trastornos de aprendizaje que probablemente inhiben el desarrollo académico (Manzanero et al., 2025).
+De esta manera, el presente estudio se alineó de manera directa con el Objetivo de Desarrollo Sostenible (ODS) 4, cuyo aporte fue garantizar una educación inclusiva y busca en los niños desarrollar diferentes habilidades a través de una pedagogía activa para reducir las brechas de educación, asimismo, busca fortalecer el proceso de enseñanza-aprendizaje (Organización de las Naciones Unidas [ONU], 2022). 
+En el panorama internacional, el desarrollo cognitivo infantil enfrenta obstáculos a partir del deterioro de la salud mental y el bienestar emocional. El Fondo de las Naciones Unidas para la Infancia [UNICEF] (2021) afirmó que aproximadamente 1 de cada 7 niños de 10 a 19 años (alrededor de 166 millones en todo el mundo) tiene una condición reportada de salud mental, como el Trastorno por Déficit de Atención e Hiperactividad (TDAH), que afecta la capacidad de concentrarse en clase, y muchos niños en edad escolar experimentan ansiedad, estrés y desregulación emocional. Al mismo tiempo, se ha demostrado que 70% de los niños de 10 años en los países de bajos y medianos ingresos del mundo no pueden leer y comprender incluso los textos más simples, denotando una forma de bajo aprendizaje que, como indicador macro, significa que 7 de cada 10 niños son incapaces de consolidar funciones básicas de cómo aprender y pensar durante los años formativos de su desarrollo y muestra la incapacidad de desarrollar tal capacidad como la concentración prolongada (Banco Mundial, 2022).
+A nivel nacional, la atención sostenida es un problema cognitivo que se desarrolla en el sistema educativo peruano, lo cual es un reflejo de las graves deficiencias en los procesos atencionales durante la primera infancia. Según los resultados de la Evaluación de Muestra publicados por el Ministerio de Educación de Perú (MINEDU, 2023), más del 50 % de los estudiantes que comienzan la escuela primaria en Perú no alcanzan el nivel satisfactorio en comprensión de textos provenientes del nivel de educación inicial. Según UNICEF (2021), 3 de cada 10 niñas, niños y adolescentes están en riesgo de desarrollar problemas en la atención sostenida. La inestabilidad familiar y las crisis sociales tras la pandemia están agravando esta situación.
+Los procesos cognitivos en los cuales se involucra la atención sostenida, también parte sobre la crisis nutricional en la primera infancia que representa una amenaza severa y silenciosa. El Instituto Nacional de Estadística e Informática (2025) informó que la anemia infantil afecta al 34.9% de los niños entre 6 y 35 meses y la desnutrición crónica al 12.1%. Por ende, se presentaron más de 20,000 casos para diagnosticar el TDAH u otros problemas relacionados a la falta de atención, en niños que fueron atendidos durante la primera mitad de ese año (Ministerio de Salud, 2025),
+En el contexto regional de La Libertad, los indicadores de rendimiento escolar exponen una severa deficiencia en las capacidades cognitivas de la atención cognitiva de los estudiantes. Según el Ministerio de Educación de Perú (2023), la región tiene aproximadamente el 55,6% de estudiantes en los primeros grados de educación primaria que no alcanzan el nivel satisfactorio en las pruebas debido a la falta de atención a la comprensión lectora y por ende la baja atención integral. A partir de esta estadística, el MINSA (2023) informó un aumento alarmante en la atención de trastornos conductuales, hiperactividad y presunta atención deficiente en centros de salud mental comunitarios y hospitales pertenecientes a la red de Trujillo, con cifras que superan los 2,500 casos para la población infantil provincial.
+Esta problemática expuesta estaba inmersa en una institución educativa del nivel inicial ubicada en Trujillo, donde mediante la observación no estructurada y el registro anecdótico de las docentes de aula, se identificaron conductas como dificultad para completar tareas o manualidades simples, abandonaban constantemente sus asientos, interrumpían sistemáticamente a sus compañeros de clase y mostraban una distracción inmediata a estímulos externos. Esto incluía estímulos visuales, como un objeto que cae, o estímulos auditivos, como el ruido de la calle. Asimismo, durante las rondas tradicionales de lectura, los niños perdían interés rápidamente y mostraban distracción, lo que dificultaba mantenerse en la tarea y seguir la narrativa de la historia. Esto obligaba al maestro a redirigir continuamente el comportamiento del grupo.
+Este conflicto podría asociarse o contribuir a la exposición temprana al consumo pasivo de pantallas (televisión y videos cortos con gratificación instantánea) y la ausencia de rutinas diarias en el ambiente familiar, lo cual condiciona el cerebro del niño a la hiperestimulación y reduce la capacidad del niño para regular (Vélez y Zambrano, 2026). Esto se veía agravado por la ausencia de herramientas didácticas interactivas en la institución educativa y el uso exclusivo de materiales estáticos, como fichas de papel y cuentos narrados, sin estímulos multisensoriales (Brunetti et al., 2024). Entre otras causas, la ONU (2023) argumenta que el 44% de los niños de 3 a 4 años en todo el mundo no pueden acceder a programas educativos preescolares, dado que el preescolar ofrece a los niños su primera oportunidad de asistir a entornos pedagógicamente estructurados fuera del hogar. Asimismo, otro causante del desenfoque de la atención es el tiempo excesivo frente a las pantallas y el uso problemático de medios digitales que pasan los niños, siendo un factor nocivo para el desarrollo de sus actividades escolares (Organización Mundial de la Salud [OMS], 2022).
+No abordar el problema podría generar dificultades posteriores en el futuro personal y educativo de los niños, dado que no se desarrollarían funciones ejecutivas, lo que dificultaría ajustarse a jornadas escolares más largas (Sánchez-Rivas et al., 2023). Esto también podría causar bajo rendimiento académico, generar problemas de comportamiento en el aula, poca regulación emocional, baja inclusión escolar y las bajas expectativas de los docentes con los niños que presentan este tipo de limitaciones.
+Ante lo expuesto, se realizó la siguiente pregunta de estudio: ¿De qué manera los cuentos digitales interactivos fortalecieron la atención sostenida en niños de 5 años de una institución educativa de Trujillo, 2026?
+En el punto de vista teórico, este estudio tuvo como objetivo mostrar cómo las interacciones digitales guiadas fortalecen las redes cognitivas a través de la pedagogía moderna y allanaron el camino para la investigación en neuroeducación para niños pequeños. Los cuentos digitales interactivas brindan estímulos multisensoriales a los niños, lo que ayuda a los cerebros de los niños pequeños a centrarse en nuevos estímulos. Además, esta investigación analizó el aprendizaje activo dentro de los marcos sociocultural y constructivista, a través del lente de la tecnología. Este estudio proporcionó evidencia empírica relevante para mostrar la conexión entre la narración digital interactiva y la atención sostenida.
+A nivel práctico, este estudio surgió de la necesidad imperativa de resolver la falta de atención observada actualmente en las aulas. Los cuentos digitales interactivos ofrecen a los docentes una herramienta de enseñanza que proporcionara la creatividad y la imaginación en los estudiantes. Sin intervención, los déficits de atención afectarían sustancialmente el aprendizaje de los alumnos. Esta propuesta pretendió resolver problemas reales en el entorno escolar, ayudando a los niños a desarrollar habilidades ejecutivas fundamentales en preparación para los desafíos de las futuras etapas de su educación.
+Desde la perspectiva social, se buscó que los niños recibieran el apoyo necesario de acuerdo a sus características sensoriales y a su vez la atención sostenida. Así también, se espera que los docentes adquieran nuevas competencias tecnológicas que transformen su práctica diaria... Por último, la institución educativa Trujillo podría mejorar la calidad de la enseñanza con base en metodologías innovadoras. Si las escuelas se negaban a abordar esta digitalización, la brecha educativa se ampliaría y sería todo el conjunto de la comunidad escolar el que se estancara en su desarrollo educativo.
+Desde un punto de vista metodológico, este estudio aplicó y evaluó un diseño preexperimental con un pre y postest para determinar el efecto de una intervención basada en la narración digital interactiva sobre la atención sostenida en niños de cinco años. Así también, el análisis que se obtuvo mediante las técnicas estadísticas descriptivas e inferenciales, sirvieron como evidencia objetiva de la eficacia de la estrategia propuesta.
+El objetivo general del estudio estuvo centrado en Determinar en qué medida los cuentos digitales interactivos fortalecieron la atención sostenida en niños de 5 años de una institución educativa de Trujillo, 2026. De forma específica: Determinar en qué medida los cuentos digitales interactivos fortalecen la orientación perceptiva en niños de 5 años de una institución educativa de Trujillo, 2026; Determinar en qué medida los cuentos digitales interactivos fortalecen la persistencia en la tarea en niños de 5 años de una institución educativa de Trujillo, 2026; Determinar en qué medida los cuentos digitales interactivos fortalecen la resistencia a distractores en niños de 5 años de una institución educativa de Trujillo, 2026; Determinar en qué medida los cuentos digitales interactivos fortalecen la regulación motora en niños de 5 años de una institución educativa de Trujillo, 2026.
+A consecuencia de una revisión más minuciosa de información, se encontraron como antecedentes internacionales, tales como el de Bali et al. (2023), en Hungría, plantearon como objetivo explorar cómo las diferencias individuales en la atención sostenida influyen en la asimilación de información al utilizar cuentos electrónicos interactivos en preescolares. Este estudio utilizó un método cuantitativo con un diseño experimental, que involucró una muestra de 32 niños de 5 a 6 años. Las herramientas seleccionadas fueron la tarea de la lámpara en forma de silla, el cuestionario Escala de Evaluación de TDAH-IV y preguntas breves. El estímulo de audio solo fue la condición de control. El resultado estadísticamente significativo al nivel de 0.05 (p = 0.017) mostró una mejora en el aprendizaje con la historia interactiva. La calidad de la atención también tuvo un efecto estadísticamente significativo en el rendimiento cognitivo (p = 0.026). Se identificó una correlación negativa moderada donde los niños con mayor atención sostenida obtuvieron mejores resultados. Los autores concluyeron que las historias interactivas fomentan el aprendizaje, pero dependen del control atencional del niño. Este contexto ayuda a desarrollar la tesis al ilustrar un método procedimental sistemático para evaluar el impacto experimental de la interactividad y el contexto multimedia en la resistencia a las distracciones de los niños en edad preescolar.
+En Arabia Saudita, Elmaghraby y Barakat (2025), plantearon como objetivo investigar el efecto de las técnicas de cuentos interactivos en el desarrollo de habilidades tempranas en niños de educación inicial. El investigador empleó una metodología cuantitativa y un diseño que incluía un grupo de control con una estructura cuasi-experimental de preprueba y postprueba. La muestra estuvo compuesta por niños saudíes que asistían a preescolar (N=50). Los instrumentos del estudio fueron varias pruebas de escucha, escritura, expresión oral y lectura que incluían estímulos visuales. Los hallazgos del estudio revelaron una diferencia estadísticamente significativa hacia el grupo experimental respecto al total de la postprueba (p < 0.01). Además, hubo una diferencia altamente estadísticamente significativa hacia el grupo de intervención en la prueba de habilidades de escucha posttest (p < 0.01). El estudio concluyó que el uso de técnicas interactivas de narración fue efectivo para mejorar las habilidades de aprendizaje y escucha de los niños en edad preescolar. El estudio amplía la investigación actual al ofrecer un marco metodológico para experimentar con narrativas interactivas en niños en edad preescolar.
+En Ecuador, Gualacañay et al. (2025), plantearon como objetivo analizar cómo los cuentos digitales interactivos afectan el aprendizaje y la atención en niños de educación inicial. El estudio utilizó un enfoque cuantitativo con un diseño experimental transversal. Los participantes fueron 60 niños en edad preescolar entre 4 y 6 años. Las herramientas utilizadas en el estudio fueron una escala tipo Likert, guías de observación y diarios de registro. Los resultados mostraron que hubo una mejora significativa en la comprensión (p < 0,001) y en la creatividad (p = 0,004) de los participantes en el grupo experimental. Los participantes también tuvieron una mayor frecuencia de participación interactiva (41%) en comparación con el grupo de control, que tuvo una frecuencia de participación del 13%. Por lo tanto, se concluyó que la interactividad intrínseca en las historias mejora la atención sostenida y la participación activa del niño. Este antecedente se suma a la tesis en el sentido de que proporciona una base empírica y metodológica para demostrar que la interactividad y los multimedia en el ambiente influyen directamente en la persistencia sostenida de los niños en la realización de una tarea determinada.
+En Taiwán, Zheng et al (2025) plantearon como objetivo examinar el impacto de la enseñanza interactiva mediante cuentos ilustrados en la comprensión y focalización de niños preescolares. Se implementó un enfoque cuantitativo con un diseño experimental en este estudio. La muestra estuvo formada por 32 niños de 5 a 6 años. Se utilizaron la prueba de vocabulario en imágenes de Peabody, una prueba de pedagogía de lectura y registros observacionales. Los resultados mostraron que el grupo experimental, que se integró con mediación pedagógica interactiva, obtuvo un rendimiento significativamente mejor que el grupo de control en la comprensión de historias. Un análisis inferencial reveló una mejora en el rendimiento general con mayor perseverancia en la tarea atribuida a la intervención de mediación pedagógica, con un valor p inferior a 0,05. El estudio demostró que la enseñanza interactiva de historias mantiene y refuerza el interés y la comprensión del participante. Esto es relevante para la tesis de investigación en que proporciona una base empírica que muestra que la mediación pedagógica participativa ayuda a prevenir el declive del interés, que es el componente más importante para mejorar la atención sostenida.
+En Singapur, Sun et al. (2022) plantearon como objetivo examinar el efecto de los libros digitales enriquecidos sobre la atención visual durante lecturas repetitivas en preescolares. Con una muestra de 89 niños bilingües de 4 y 5 años, esta investigación utilizó un enfoque cuantitativo y un diseño experimental. La fijación visual y el recuento narrativo de los participantes fueron evaluados mediante un rastreador ocular. Las historias digitales mejoradas, que incluían elementos visuales y auditivos, mostraron un efecto estadísticamente significativo en la atención sostenida medida por el tiempo de lectura. La atención dentro de las historias mejoradas promedió entre el 60-70% del tiempo de lectura, mientras que la atención en las historias estáticas promedió entre el 50-60% del tiempo de lectura. La versión de historia dinámica superó a la versión estática con un resultado significativo de p = 0,01. Además, cuanta más atención visual, mejor comprensión (p < 0,001). El estudio concluyó que los elementos multimedia lograron motivar la atención perceptual. La presencia de estímulos digitales en este estudio respalda aún más la metodología de la tesis al ilustrar cómo evaluar objetivamente la persistencia de los niños.
+En Ecuador, Apaza y Apaza (2025), plantearon como objetivo determinar los efectos de los cuentos interactivos en la comprensión lectora de niños de 5 años. La investigación involucró una metodología cuantitativa, un nivel explicativo y un enfoque preexperimental e incluyó una muestra de 20 niños en edad preescolar. Con la técnica de observación, se utilizó un instrumento validado. Los resultados indicaron que el 60% de los niños en edad preescolar estaban en proceso en la prueba previa y el 35% estaban en la fase inicial; después de la intervención, el 80% alcanzó el nivel logrado. Además, se confirmó una diferencia estadísticamente significativa a favor de la intervención (p < 0,05). Por lo tanto, se pudo concluir que las historias interactivas mejoran el aprendizaje en niños en edad preescolar. La información de antecedentes de esta investigación contribuye a la tesis de la construcción de un modelo metodológico en el que la interactividad narrativa y la mediación pedagógica pueden impactar positivamente en el compromiso cognitivo de los niños, así como en la persistencia en las tareas de preescolar.
+Los antecedentes internacionales demuestran mediante rigurosos diseños experimentales que los cuentos digitales interactivos fortalecen las capacidades cognitivas infantiles. Estos estudios muestran que el diseño narrativo combinado con multimedia puede prolongar la atención sostenida y reducir las distracciones durante tareas largas. De manera similar, proporcionan herramientas, validadas empíricamente, para medir la atención y la retención en niños en edad preescolar.
+En tanto, dentro de los antecedentes a nivel nacional, se encontró un estudio en Huacho, donde Ramon Obregon (2025) planteó como objetivo determinar la relación entre el cuentacuentos interactivo y el desarrollo del lenguaje en niños de 5 años. La investigación fue cuantitativa, básica y no experimental, con un diseño descriptivo-correlacional. La muestra fue de 79 niños en edad preescolar, de un total de 200. Los instrumentos fueron dos cuestionarios, que fueron validados, para medir ambas variables, con una escala Likert de 4 niveles, y, en los resultados, se encontró que el 82.3 % de los niños tenía un nivel medio en historias interactivas y el 86.1 % tenía un nivel medio en desarrollo del lenguaje. Junto con esto, se encontró que existe una relación positiva, significativa y moderada entre ambas variables (p = 0.000). Se concluyó que cuanto mayor sea la implementación de la interactividad narrativa, mayor será el desarrollo del lenguaje. Este antecedente es de gran importancia para la tesis, ya que muestra que las herramientas interactivas capturan la atención de los usuarios y, al mismo tiempo, incrementan la participación activa de los usuarios, así como la fluidez del lenguaje.
+Los antecedentes nacionales aportan una valiosa contextualización al confirmar la viabilidad de implementar cuentos interactivos dentro del sistema educativo peruano. Estos estudios presentan ejemplos válidos de metodologías en las cuales existen instrumentos de observación refinados y validados que permiten la evaluación objetiva del rendimiento de los niños. Además, fundamentan el hecho de que la mediación pedagógica interactiva promueve la participación activa. Esto resulta en la captura continua de los intereses cognitivos de los niños para cultivar las habilidades fundamentales de atención respecto a los diversos estímulos disruptivos presentes en el entorno escolar contemporáneo.
+Por otro parte, respecto a las bases teóricas de la primera variable, la Teoría Cognitiva del Aprendizaje Multimedia, propuesta originalmente por el psicólogo educativo Richard Mayer, sostiene que las personas aprenden más profundamente cuando la información se presenta mediante palabras e imágenes combinadas, en lugar de utilizar únicamente palabras. Esta teoría sugiere que las historias interactivas digitales deben tener elementos visuales y auditivos que consideren los canales de procesamiento cognitivo de los niños. Los elementos bien diseñados en las historias interactivas digitales para preescolares pueden facilitar la asimilación del contenido de la historia sin sobrecargar los recursos cognitivos. Como se describe en la teoría, los recursos digitales pueden complementar una actividad de lectura cuando los elementos interactivos se correlacionan de manera significativa con el texto de lectura, mejoran la comprensión de la lectura y minimizan las distracciones cognitivas, la fatiga visual innecesaria y los efectos negativos del procesamiento cognitivo visual en los estudiantes del aula durante la lectura (Furenes et al., 2021).
+Además, respecto a la segunda perspectiva teórica de esta variable, la Teoría Sociocultural del Desarrollo Cognitivo, formulada originalmente por Lev Vygotsky, establece que el aprendizaje infantil se fortalece mediante la interacción con el entorno y las herramientas culturales disponibles. En la situación actual, la historia digital cumple el papel de una herramienta intermediaria clave que ayuda al niño a cruzar las fronteras de nuevas áreas de desarrollo proximal. La interfaz interactiva es un tipo de andamiaje de alta tecnología que asiste al niño pequeño cuando se enfrenta a desafíos narrativos. Esto significa que la mediación adulta tradicional puede ser apoyada y complementada por elementos multimedia, actuando como una herramienta mediadora que proporciona una forma inmediata de retroalimentación mientras el niño lee de manera independiente. Esto es evidente en el trabajo de Strouse y Ganea (2021), quienes encontraron que la combinación de tacto y sonido en el cuento digital creaba pistas contextuales que mejoraban la integración de vocabulario desconocido y el compromiso emocional del niño con la historia.
+Asimismo, en cuanto a la tercera teoría vinculada a esta primera variable, la Teoría de la Carga Cognitiva, desarrollada por el psicólogo John Sweller, postula que la memoria de trabajo posee una capacidad estrictamente limitada. En el contexto de la narrativa digital, esta teoría se centra en cuántos estímulos pueden ser procesados simultáneamente por el niño. Una interfaz interactiva que integra una multitud de animaciones secundarias y botones intrusivos provocará una sobrecarga cognitiva extrínseca debido a la imposibilidad de atención focalizada y aprendizaje profundo. El material educativo digital debe garantizar una carga cognitiva equilibrada al crear distracciones visuales mínimas para el aprendizaje, facilitando así el establecimiento de nuevos marcos cognitivos. Los últimos estudios indican que un diseño digital simplificado que comprende la trama principal reduce significativamente la sobrecarga cognitiva y mejora el procesamiento de la información en niños en edad preescolar (Castro-Alonso et al., 2021).
+Por otra parte, respecto a la variable atención sostenida, en la Teoría de las Redes Atencionales, estructurada por los científicos Michael Posner y Steven Petersen, se plantea que la atención humana funciona mediante un sistema complejo de redes anatómica y funcionalmente independientes. Esta propuesta aborda específicamente la red de alerta, la red guía y la red de control ejecutivo, esta última es importante para mantener el foco en tareas largas y exigentes. En niños en edad preescolar, la capacidad de mantener la atención está neurologicamente desarrollada y depende del apoyo organizacional externo. Por esta razón, el desarrollo de las redes de control ejecutivo es incremental. Las tareas enfocadas que implican la gestión de la inhibición de respuestas automáticas y el empleo de la atención sostenida promueven el desarrollo temprano de las funciones ejecutivas en los niños (Gao et al., 2026).
+Sumado a ello, abordando la segunda teoría, la Teoría de la Capacidad Atencional, concebida por el psicólogo Daniel Kahneman, establece que la atención opera como un recurso mental finito que debe distribuirse entre diversas actividades. Mantener un enfoque continuo requiere una inversión consciente de energía cognitiva hacia un estímulo particular. Algunas tareas son más intensivas en recursos. Estas tareas pueden conducir a la fatiga mental y plantear un riesgo de perder el interés de un niño. El desafío es encontrar un nivel óptimo de esfuerzo que mantenga el interés sin sobrecargar el sistema cognitivo del niño. Investigaciones recientes han demostrado que entornos diseñados de manera adecuada, incluso visualmente estimulantes, pueden ayudar a equilibrar los recursos mentales de los niños para que puedan concentrarse sin interrupciones durante períodos más largos (Kucirkova, 2019).
+Finalmente, en relación con la última teoría de esta segunda variable, la Teoría del Sistema Funcional de la Atención, formulada por el neuropsicólogo Alexander Luria, define el proceso atencional como un mecanismo de autorregulación consciente y voluntario. Este modelo sugiere que la atención es dinámica y se desarrolla a través de interacciones sociales y mediación del lenguaje interna. Para los niños en edad preescolar, la capacidad de mantener la atención se desarrolla a medida que aprenden a interiorizar las directivas externas. Esto requiere bloquear activamente las distracciones externas que compiten por su atención. La evidencia reciente sugiere que la integración intencionada de herramientas digitales proporciona un ancla externa que ayuda significativamente a la concentración y al control inhibitorio en los niños pequeños (Veraksa et al., 2021).
+Otra manera de fundamentar nuestra dimensión de diseño narrativo es tomando como base la Teoria del Pensamiento Narrativo de Jerome Bruner. Esta señala que el ser humano desarrolla e interpreta su vida a través de la narratividad. Para nuestro caso de los cuentos digitales, el diseño narrativo estará conformado por una sucesión de sucesos digitales con diferentes personajes que se enfrenten a retos de ludificación los cuales ayudarán al niño a comprender mejor a través de distintos elementos que los atraigan. Generando de esta manera una historia con la cual el alumno podrá mantenerse motivado a lo largo de su camino escolar. 
+Respecto a la dimensión de la interactividad se fundamenta en el Aprendizaje Activo que forma parte del Constructivismo. Se menciona que para que los niños adquieran conocimientos necesitan interactuar directamente con los objetos de su entorno. Al aplicar esto a los medios de tecnología podemos decir que la interactividad será un recurso que nos ayudará a generar un mayor grado de dinámica por parte de los alumnos. Esto hará que salgan de su rol como simples espectadores en la pantalla a ser los productores de la misma, favoreciendo la inmersión del niño en la actividad que se le proponga. Al tener esta característica el cuento digital no será solo algo que ellos vean sino que también participen activamente mejorando así su capacidad atencional.
+La última se apoya en la teoría sociocultural de Lev Vygotsky pero adaptada a un ambiente con tecnología. Donde se considera que la tecnología no reemplaza al docente si no que este será nuestro mediador ya que será quien guíe de manera correcta las acciones de nuestros estudiantes frente a esta. Consideramos como mediación pedagógica esta técnica donde el docente puede llevar a nuestros estudiantes a superar los problemas y llevarlos hasta el objetivo deseado.
+En cuanto a las definiciones de las variables, los cuentos digitales interactivos, desde el punto de vista didáctico y cultural, se define como la incorporación de recursos tecnológicos lúdicos que presentan interacciones multimedia y dinámicas, que ayudan a promover la educación infantil temprana, el desarrollo del lenguaje y la adquisición de conocimientos (Yépez Alvear, 2025).
+Por otra parte, desde un punto de vista tecnológico y creativo, los cuentos digitales interactivos se entienden como narraciones mejoradas mediante herramientas de computadora e inteligencia artificial, que enriquecen aún más los procesos de lectura y escritura en el aula, y transforman al estudiante en un creador proactivo del contenido escolar (Vélez y Zambrano, 2026).
+Asimismo, desde el punto de vista psicopedagógico, representa narrativas inmersivas, que sirven como detonantes motivacionales continuos y organizan viajes emocionales diseñados para promover el compromiso personal y garantizar la participación del estudiante a lo largo del proceso con el fin de lograr metas de aprendizaje inter y transcurriculares continuas (Brunetti et al., 2024).
+En cuanto a la segunda variable, atención sostenida, desde el punto de vista neuropsicológico, es la habilidad cognitiva esencial para mantener la concentración por largos períodos, cuyo impacto se centra en la velocidad de procesamiento de la información y la capacidad para comprender textos (Tirapu-Ustárroz & García-Molina, 2024).
+De igual manera, desde un enfoque clínico y diferencial, este constructo describe una función ejecutiva importante y los cambios asociados a los diferentes subtipos de déficit de atención hiperactivo, además, describe las dificultades que causa al niño organizar mentalmente y retener piezas continuas de información (Servera et al., 2023).
+Finalmente, desde el punto de vista psicofisiológico y de la regulación emocional, esta habilidad es una conciencia equilibrada y aumentada que ayuda a los niños a ignorar distracciones e impulsos irrelevantes, mejorando así el procesamiento cognitivo y aumentando la receptividad natural al entorno de aprendizaje preescolar.
+(Lee et al., 2022).
+Respecto a las definiciones teóricas de las dimensiones: La variable cuentos digitales interactivos, según Vélez y Zambrano (2026), tiene como dimensiones: diseño narrativo, entorno multimedia, interactividad, mediación pedagógica. Inicialmente, la dimensión diseño narrativo es una secuencia estructural de eventos digitales que consiste en caracteres que enfrentan desafíos lúdicos que fortalecen la comprensión de los niños a través de interfaces diseñadas para captar intereses particulares. (Sánchez-Rivas et al., 2023).
+Por su parte, la dimensión entorno multimedia es una secuencia de actividades digitales estructurales incluye personajes que realizan tareas divertidas que sirven para ampliar el conocimiento de los niños utilizando interfaces que involucran los intereses específicos de los niños (Mayer, 2024). 
+Asimismo, la dimensión interactividad es un proceso bidireccional en el que los estudiantes participan de manera más dinámica, desplazándolos del papel de espectadores pasivos a productores activos en el entorno virtual para optimizar la inmersión (Li et al., 2026). Finalmente, la dimensión mediación pedagógica es una forma de intervención educativa estructurada tecnológicamente que facilita la resolución de conflictos guiando de manera armónica las interacciones de los estudiantes hacia la consecución de los objetivos instructivos preestablecidos (Damián García, 2023).
+En otro lado, la variable atención sostenida, según Servera et al. (2023), tiene como dimensiones: orientación perceptiva, persistencia en la tarea, resistencia a distractores, regulación motora. En cuanto a las dimensiones de la variable atención sostenida, la dimensión orientación perceptiva se describe como un mecanismo cognitivo flexible que dirige los receptores sensoriales para centrarse en variaciones entre estímulos específicos en el entorno auditivo o visual (Siedenburg et al., 2023). Seguidamente, la dimensión persistencia en la tarea significa la capacidad de concentrar tu atención en tus metas, lo cual desarrolla el mayor aprendizaje del que eres capaz, a pesar del agotamiento por las demandas incesantes de tus estudios (Rustichini et al., 2023).
+Adicionalmente, la dimensión resistencia a distractores indica la capacidad prefrontal que evita la fatiga cognitiva controlando estímulos externos, protegiendo el enfoque principal de estímulos perturbadores que afectan negativamente el rendimiento escolar (Ranchod et al., 2023). Por último, la dimensión regulación motora se entiende como la habilidad neurológica que controla la moderación de comportamientos impulsivos no deseados. Ayuda a establecer posturas corporales estables que permiten un procesamiento cognitivo y conductual óptimo durante las sesiones educativas (Avnit et al., 2023).
+Finalmente, se tuvo como hipótesis general: Los cuentos digitales interactivos fortalecen la atención sostenida en niños de 5 años de una institución educativa de Trujillo, 2026. De forma específica: Los cuentos digitales interactivos fortalecen la orientación perceptiva en niños de 5 años de una institución educativa de Trujillo, 2026; Los cuentos digitales interactivos fortalecen la persistencia en la tarea en niños de 5 años de una institución educativa de Trujillo, 2026; Los cuentos digitales interactivos fortalecen la resistencia a distractores en niños de 5 años de una institución educativa de Trujillo, 2026; Los cuentos digitales interactivos fortalecen la regulación motora en niños de 5 años de una institución educativa de Trujillo, 2026.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+II. Metodología
+
+El tipo de investigación de este estudio fue la investigación aplicada. La investigación aplicada pretende utilizar el conocimiento científico para afectar directamente la realidad, además, puede ser implementada para resolver problemas educativos y mejorar las situaciones que la rodean dentro de un contexto o dominio particular (Bernal, 2022). Asimismo, el enfoque de investigación fue cuantitativo. Los métodos cuantitativos comprenden un sistema formalizado para generar y recopilar datos medibles, estos métodos prueban hipótesis basadas en mediciones numéricas y analizan estadísticamente los datos para delinear patrones de comportamiento objetivos y verificablemente precisos (Hernández-Sampieri & Mendoza, 2024).
+Por otro lado, el diseño de investigación correspondió al diseño preexperimental. El diseño preexperimental se caracteriza porque los investigadores alteran intencionalmente una variable para ver qué ocurre en respuesta a ese cambio con otra variable, aunque con frecuencia trabajan con grupos ya existentes de manera orgánica, ya que no están obligados a realizar y seguir un proceso exigente e intensivo de asignación aleatoria (Ato et al., 2023).
+Diseño de la investigación preexperimental:
+G: O1 — X — O2
+G (Grupo): Representa al grupo único de estudio, que en tu caso son los 17 niños de 5 años de la institución educativa.  
+O1 (Observación 1 / Pretest): Es la evaluación inicial. Representa la medición del nivel de atención sostenida antes de aplicar los cuentos digitales interactivos.  
+X (Intervención / Tratamiento): Es la aplicación de la variable independiente. Representa las sesiones donde los niños utilizarán los cuentos digitales interactivos.  
+O2 (Observación 2 / Postest): Es la evaluación final. Representa la medición del nivel de atención sostenida después de la intervención para ver si hubo mejoras.
+De igual manera, el alcance de investigación fue de nivel explicativo. El alcance explicativo se centra en comprender las razones detrás de eventos y experiencias más allá de lo que se observa esta desviación de lo general a lo específico son las condiciones y factores existentes y que ocurren en torno a la aparición del fenómeno (Hernández et al., 2024). Finalmente, el corte de la investigación fue longitudinal. El corte longitudinal requiere la recopilación de datos en intervalos regulares durante un período establecido, esto permite una evaluación de los cambios, modificaciones y desarrollo de las variables observadas a lo largo de la investigación educativa (Otzen & Manterola, 2021).
+La variable independiente, cuentos digitales interactivos, se define como la incorporación de recursos tecnológicos lúdicos que presentan interacciones multimedia y dinámicas, que ayudan a promover la educación infantil temprana, el desarrollo del lenguaje y la adquisición de conocimientos (Yépez Alvear, 2025). Desde el punto de vista operacional, los cuentos digitales interactivos, según Vélez y Zambrano (2026), tiene como dimensiones: diseño narrativo, entorno multimedia, interactividad, mediación pedagógica.
+La variable dependiente, atención sostenida, es la habilidad cognitiva esencial para mantener la concentración por largos períodos, cuyo impacto se centra en la velocidad de procesamiento de la información y la capacidad para comprender textos (Tirapu-Ustárroz & García-Molina, 2024). Operacionalmente, la variable atención sostenida se midió con el instrumento de guía de observación a partir de las dimensiones orientación perceptiva, persistencia en la tarea, resistencia a distractores, regulación motora (Servera et al., 2023).
+La unidad de análisis fue cada niño de 5 años de una institución educativa de Trujillo, del año 2026. La población se comprendió por 17 niños. La población es un grupo de personas u objetos que el investigador ha identificado y que comparten características observables específicas, en la que el investigador pretende demostrar los resultados de su investigación en ese grupo (Arias, 2021). En cuanto a los criterios de inclusión, se contempló a todo aquel niño de 5 años de una institución educativa de Trujillo, del año 2026 que asistiera regularmente a clases, contara con la autorización y el consentimiento de sus padres o apoderados, y participara de manera activa en las dinámicas del aula. Por consiguiente, respecto a los criterios de exclusión, se abarcó a todo aquel niño de 5 años de una institución educativa de Trujillo, del año 2026 que presentara inasistencias prolongadas o reiteradas, poseyera diagnósticos neurológicos o sensoriales severos previamente diagnosticados (como ceguera total o sordera profunda) que limitaran la asimilación visual o auditiva, debido a que el instrumento de intervención requiere el uso indispensable de ambas vías sensoriales, salvaguardando así el principio de equidad y no maleficencia en el aula, o cuyos tutores decidieran declinar formalmente su participación.
+Por tanto, a partir de un muestreo censal, se definió la muestra por los 17 niños, siendo equivalente a la población. La muestra se entiende como un subconjunto representativo y definido de la población general, delimitado y seleccionado para recibir una invitación a participar en la recopilación de datos debido a consideraciones sobre la eficiencia en tiempo y costo de la investigación (Otzen & Manterola, 2021).
+Respecto a la técnica de investigación se empleó la observación que es la recopilación de datos estructurada donde los comportamientos y eventos se registran de manera detallada y objetiva, esto ocurre en su entorno natural y evita cualquier cambio directo o externo (Hernández-Sampieri & Mendoza, 2024). El instrumento de la observación fue la guía de observación. La guía de observación es un documento que proporciona al investigador indicadores específicos, detallados y estructurados que facilitan al investigador registrar el comportamiento observado de manera organizada, sistemática y constructiva durante el desarrollo continuo y activo de la investigación de campo (Arias, 2021).
+Así, para la validación de estas herramientas expuestas, cada instrumento pasó un proceso de validación por un panel de expertos. El proceso de validez de contenido se realizó mediante el juicio de tres expertos (un doctor y dos magísteres en educación), quienes evaluaron los criterios de suficiencia, claridad, coherencia y relevancia. El coeficiente V de Aiken resultante resultó ser 1.00, catalogando al instrumento de guía de observación como valido para su ejecución. La validez por juicio de expertos consiste en una evaluación técnica rigurosa llevada a cabo por especialistas calificados, además, donde se analizan si los ítems de los instrumentos miden las variables teóricas que pretenden medir (Escobar-Pérez & Cuervo-Martínez, 2023). Por lo cual, los evaluadores afirmaron que el instrumento es aplicable dados los criterios de suficiencia, claridad, coherencia y relevancia en cuentos digitales interactivos y atención sostenida.
+Además, para la confiabilidad de los instrumentos es importante porque la confiabilidad de un instrumento indica el grado en que la aplicación sistemática del mismo dispositivo de medición a los mismos sujetos de medición produce resultados que son consistentes, estables, congruentes y fiables, y libres de error sistemático de medición (Campo-Arias et al., 2021). Por lo cual, se aplicó una prueba piloto dirigido a 11 niños de 5 años que poseían características similares a la población presentada. En este sentido, la prueba de confiabilidad, a partir del Alfa de Cronbach, cuyo valor fue 0.9700, describiéndose como un instrumento de alta fiabilidad.
+En cuanto a los procedimientos involucrados en la realización de la investigación, primero fue necesaria la aprobación de las máximas autoridades de la institución educativa donde se llevó a cabo la investigación. El Comité de Ética también dio su aprobación en línea con los requisitos éticos para investigaciones con menores. Además, se presentaron y recogieron los formularios de consentimiento informado completos de los padres/tutores legales de los participantes en la investigación. Cuando se obtuvieron todas las aprobaciones, se administró el formulario de observación a los participantes como una prueba previa para evaluar su nivel inicial de atención sostenida. Se realizó el programa de intervención de narración digital interactiva, el cual consistió en seis sesiones, aplicadas con una frecuencia de dos veces por semana, con una duración aproximada de 45 minutos cada una, fundamentadas en la pedagogía activa para la primera infancia (el desglose de las sesiones se encuentra en los anexos). La guía de observación se aplicó como una prueba posterior después de la intervención para evaluar la diferencia del programa. Los datos recopilados se organizaron en categorías y marcos para el análisis estadístico.
+En cuanto al método de análisis, los datos se analizaron utilizando el software estadístico SPSS vr26, por lo que, se inició con el análisis descriptivo utilizando frecuencias y porcentajes para caracterizar los niveles de atención sostenida y sus dimensiones antes y después de la intervención, dado que, la investigación tuvo un diseño preexperimental de un solo grupo con dos mediciones, una prueba previa y una prueba posterior, para el análisis inferencial, por ello, se realizó una prueba de normalidad para examinar la distribución de los datos. Por consiguiente, se aplicó la prueba de normalidad de (Shapiro Wilk). En consecuencia a sus resultados, se utilizó la prueba (t de Student) para muestras emparejadas, por ende, estas pruebas permitieron evaluar si existían variaciones estadísticamente significativas en los niveles de atención sostenida tras el uso de cuentos digitales interactivos con un nivel de significación de 0,05.
+Respecto a los aspectos éticos, se respetó el principio de respeto a las personas, por lo que, la participación fue voluntaria y se basó en el consentimiento informado de los padres o tutores legales de los participantes, de tal manera que, el estudio se llevó a cabo de conformidad con las directrices éticas básicas establecidas en UCV, que regula la investigación científica con participantes humanos. Asimismo, se siguieron los principios de beneficencia y nos aseguramos de que la intervención ayudara a los niños a recibir un mejor tratamiento a largo plazo y a mantenerse a salvo de cualquier daño. En la misma línea, se respetó el principio de no maleficencia para garantizar que los participantes no sufrieran ningún tipo de daño, ya sea físico, mental o psicológico. Por último, de conformidad con las normas éticas de la universidad y las normas éticas nacionales e internacionales para la investigación educativa, los datos solo se utilizaron con fines académicos y científicos, y se preservó su confidencialidad y anonimato.
+
+
+
+III. Resultados
+
+Tabla 1
+Atención sostenida antes de la aplicación de cuentos interactivos.
+
+En la Tabla 1 se presentan los resultados descriptivos de la variable Atención Sostenida y sus dimensiones. Se observa que el 76.5% de los 17 estudiantes evaluados se ubica en un nivel alto, mientras que el 23.5% se encuentra en un nivel medio. En cuanto a las dimensiones, destaca que el 100% alcanzó un nivel alto en persistencia en la tarea y un nivel medio en regulación motora.
+Estos resultados reflejan que los estudiantes poseen una adecuada capacidad para mantener el enfoque prolongado durante las actividades. Específicamente, evidencian un dominio consolidado para persistir hasta culminar las tareas asignadas, sin abandonar prematuramente sus objetivos. Asimismo, muestran habilidades aceptables para regular sus movimientos y resistir a la mayoría de los estímulos distractores del entorno, aunque todavía existe margen de mejora en la orientación perceptiva para optimizar el procesamiento detallado de la información visual y auditiva presente en el aula.
+En síntesis, el grupo evaluado demuestra un perfil favorable respecto a su capacidad atencional sostenida. Las fortalezas principales radican en la constancia para desarrollar y finalizar las labores asignadas. No obstante, resulta pertinente fomentar estrategias que permitan afianzar el manejo frente a elementos disruptivos externos, consolidando así el desempeño cognitivo integral durante el proceso de aprendizaje.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IV. Discusión
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V. Conclusiones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VI. Recomendaciones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Referencias
+
+Apaza, J., & Quispe, V. (2025). Cuentos interactivos para mejorar la comprensión lectora en niños de 5 años de una institución educativa de Ayacucho – 2024 [Tesis de Especialidad, Universidad Nacional de Huancavelica]. https://repositorio.unh.edu.pe/bitstreams/c917c53d-fdd4-4e25-84e9-f7c81d38c24e/download
+Arias, F. G. (2021). El proyecto de investigación: Introducción a la metodología científica (7.a ed.). Episteme. https://books.google.com.pe/books?id=y_743ktfK2sC
+Ato, M., López-García, J. J., & Benavente, A. (2023). Un sistema de clasificación de los diseños de investigación en psicología. Anales de Psicología / Annals of Psychology, 29(3), 1038–1059. https://doi.org/10.6018/analesps.29.3.178511
+Avnit, A., Zibman, S., Alyagon, U., & Zangen, A. (2023). Abnormal functional asymmetry and its behavioural correlates in adults with ADHD: A TMS-EEG study. PLoS ONE, 18(5), e0285086. https://doi.org/10.1371/journal.pone.0285086
+Bali, C., Matuz-Budai, T., Arato, N., Labadi, B., & Zsido, A. (2023). Executive attention modulates the facilitating effect of electronic storybooks on information encoding in preschoolers. Heliyon, 9(1). https://www.cell.com/heliyon/fulltext/S2405-8440(23)00106-8
+Banco Mundial. (2022). El estado de la pobreza de aprendizajes en el mundo: Actualización 2022. https://www.worldbank.org/es/topic/education/publication/state-of-global-learning-poverty
+Bernal, C. A. (2022). Metodología de la investigación: Administración, economía, humanidades y ciencias sociales (5.a ed.). Pearson Educación. https://www.pearson.com/es-es/
+Brunetti, M., Ferrante, L., Avella, C., Indraccolo, A., & Del Gatto, C. (2024). Turning stories into learning journeys: The principles and methods of immersive education. Frontiers in Psychology, 15, 1471459. https://doi.org/10.3389/fpsyg.2024.1471459
+Campo-Arias, A., Celis-Escobar, J., & Herazo, E. (2021). Un coeficiente de alfa de Cronbach adecuado para escalas con respuesta dicotómica. Revista Colombiana de Psiquiatría, 50(2), 143-144. https://doi.org/10.1016/j.rcp.2019.12.002
+Castro-Alonso, J. C., de Koning, B. B., Fiorella, L., & Paas, F. (2021). Five Strategies for Optimizing Instructional Materials: Instructor- and Learner-Managed Cognitive Load. Educational psychology review, 33(4), 1379–1407. https://doi.org/10.1007/s10648-021-09606-9
+Damián García, C. (2023). La mediación en situaciones de conflicto en la práctica docente multigrado de estudiantes normalistas. South Florida Journal of Development, 4(3), 1326–1333. https://doi.org/10.46932/sfjdv4n3-023
+Elmaghraby, R., & Barakat, A. (2025). Effects of interactive story techniques in developing some language skills among early childhood children. International Journal of Instruction, 18(3), 299-316. https://e-iji.net/ats/index.php/pub/article/view/777
+Escobar-Pérez, J., & Cuervo-Martínez, Á. (2023). Validez de contenido y juicio de expertos: una aproximación a su utilización. Avances en Medición, 6(1), 27-36. https://www.humanas.unal.edu.co/labpsicometria/mici/
+Fondo de las Naciones Unidas para la Infancia [UNICEF]. (2021). Estado Mundial de la Infancia 2021. En mi mente: promover, proteger y cuidar la salud mental de la infancia. https://www.unicef.org/es/informes/estado-mundial-de-la-infancia-2021
+Furenes, M. I., Kucirkova, N., & Bus, A. G. (2021). A comparison of children’s reading on paper versus screen: A meta-analysis. Review of Educational Research, 91(4), 483–517. https://doi.org/10.3102/0034654321998074
+Gao, M., Ren, J., Kaulie, A., Wang, Q., & Gao, G. (2026). Effects of video game-based interventions on executive functions and motor skills in children and adolescents with neurodevelopmental disorders: a systematic review and meta-analysis. Frontiers in rehabilitation sciences, 7, 1742526. https://doi.org/10.3389/fresc.2026.1742526
+Gualacañay, B., Gualancañay, V., Chavez, S., Juela, M., y Avendaño, S. (2025). Uso de cuentos digitales interactivos para estimular la comprensión oral y la creatividad en Educación Inicial. Asce magazine, 4(4), 1143-1157. https://doi.org/10.70577/asce.v4i4.481
+Hernández, R., Fernández, C., & Baptista, P. (2024). Metodología de la investigación (7.a ed.). McGraw-Hill. https://www.mheducation.com.mx/metodologia-de-la-investigacion-9781456278960
+Hernández-Sampieri, R., & Mendoza, C. P. (2024). Metodología de la investigación: Las rutas cuantitativa, cualitativa y mixta. McGraw-Hill. https://www.mheducation.es/metodologia-de-la-investigacion-9781456263232
+Instituto Nacional de Estadística e Informática [INEI]. (2024). Perú: Indicadores de Resultados de los Programas Presupuestales 2023. Encuesta Demográfica y de Salud Familiar. https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1950/libro.pdf
+Instituto Nacional de Estadística e Informática [INEI]. (2025). El 34,9% de la población de 6 a 35 meses de edad sufrió de anemia en el 2025. Recuperado el 5 de junio de 2026, de https://www.gob.pe/institucion/inei/noticias/1392685-el-34-9-de-la-poblacion-de-6-a-35-meses-de-edad-sufrio-de-anemia-en-el-2025
+Kucirkova, N. (2019). Children’s reading with digital books: Past moving quickly to the future. Child Development Perspectives, 13(4), 208–214. https://doi.org/10.1111/cdep.12339
+Lee, Y. C., Chen, C. R., & Lin, K. C. (2022). Effects of Mindfulness-Based Interventions in Children and Adolescents with ADHD: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. International journal of environmental research and public health, 19(22), 15198. https://doi.org/10.3390/ijerph192215198
+Li, L., Li, P., & Liu, Y. (2026). Sustainable cultural heritage experiences through spatial augmented reality: The effects of scene interactivity on presence, mental simulation, and tourist word-of-mouth. Sustainability, 18(9), 4441. https://doi.org/10.3390/su18094441
+Manzanero, A. L., Balmaseda, R., Pérez, M., Berisso, B., & Álvarez, M. Á. (2025). La atención sostenida en edad escolar: el sexo y el desarrollo cognitivo. Psicología Educativa, 31(2), 171-180. https://doi.org/10.5093/psed2025a15
+Mayer, R. E. (2024). The past, present, and future of the cognitive theory of multimedia learning. Educational Psychology Review, 36(8). https://doi.org/10.1007/s10648-023-09842-1
+Ministerio de Educación del Perú [MINEDU]. (2023). Resultados de la Evaluación Muestral de Estudiantes 2022. Oficina de Medición de la Calidad de los Aprendizajes. http://umc.minedu.gob.pe/resultadosem2022/
+Ministerio de Salud [MINSA]. (2023). Repositorio Único Nacional de Información en Salud (REUNIS): Base de datos de Salud Mental. https://www.minsa.gob.pe/reunis/data/salud_mental.asp
+Ministerio de Salud [MINSA]. (2025, 13 de julio). En los establecimientos de salud del Minsa se han registrado más de 25 000 casos atendidos de TDAH durante enero a junio 2025. Recuperado el 5 de junio de 2026, de https://www.gob.pe/institucion/minsa/noticias/1208012-en-los-establecimientos-de-salud-del-minsa-se-han-registrado-mas-de-25-000-casos-atendidos-de-tdah
+Naciones Unidas. (2023). Informe de los Objetivos de Desarrollo Sostenible 2023: Edición especial. https://unstats.un.org/sdgs/report/2023/
+Organización Mundial de la Salud [OMS]. (2022). Excessive screen use and gaming considerations during #COVID19. Oficina Regional para el Mediterráneo Oriental. https://www.emro.who.int/mnh/news/excessive-screen-use-and-gaming-considerations-during-covid19.html
+Organización Panamericana de la Salud [OPS]. (2024). Mejorando la salud mental de niños, niñas y adolescentes en atención primaria. Campus Virtual de Salud Pública. https://campus.paho.org/es/curso/mejorando-salud-mental-ninos
+Otzen, T., & Manterola, C. (2021). Técnicas de muestreo sobre una población a estudio. International Journal of Morphology, 35(1), 227-232. https://doi.org/10.4067/S0717-95022017000100037
+Ramon, D. (2025). Cuenta cuentos interactivos y desarrollo del lenguaje en niños de 5 años de la Institución Educativa Inicial N° 656 Pasitos de Jesús-Hualmay [Tesis de Licenciatura, Universidad Nacional José Faustino Sanchez Carrión] http://hdl.handle.net/20.500.14067/11007
+Ranchod, S., Rakobowchuk, M., & Gonzalez, C. (2023). Distinct age-related brain activity patterns in the prefrontal cortex when increasing cognitive load: A functional near-infrared spectroscopy study. PLoS ONE, 18(12), e0293394. https://doi.org/10.1371/journal.pone.0293394
+Rustichini, A., Domenech, P., Civai, C., & DeYoung, C. G. (2023). Working memory and attention in choice. PLoS ONE, 18(10), e0284127. https://doi.org/10.1371/journal.pone.0284127
+Sánchez-Rivas, E., Ramos Núñez, M. F., Ramos Navas-Parejo, M., & De La Cruz-Campos, J. C. (2023). Narrative-based learning using mobile devices. Education + Training, 65(2), 284–297. https://doi.org/10.1108/ET-06-2022-0244
+Servera, M., Sáez, B., & Iglesias-Rodríguez, T. (2023). Assessment of sustained attention in high-performance and attention deficit/hyperactivity disorder (ADHD) children with a vigilance task. Anales de Psicología, 39(2), 223–230. https://doi.org/10.6018/analesps.477731
+Siedenburg, K., Graves, J., & Pressnitzer, D. (2023). A unitary model of auditory frequency change perception. PLoS Comput Biol, 19(1), e1010307. https://doi.org/10.1371/journal.pcbi.1010307
+Strouse, G. A., & Ganea, P. A. (2021). Are prompts provided by electronic books as effective for teaching preschoolers a biological concept as those provided by an adult? Early Childhood Research Quarterly, 55, 223–234.https://doi.org/10.1080/10409289.2016.1210457
+Sun, H., Roberts, A., & Bus, A. (2022). Bilingual children’s visual attention while reading digital picture books and story retelling. Journal of Experimental Child Psychology, 215, 1-14. https://doi.org/10.1016/j.jecp.2021.105327
+Tirapu-Ustárroz, J., & García-Molina, A. (2024). Funciones ejecutivas y rendimiento académico: una revisión actualizada. Revista de Neurología, 78(1), 25–34. https://doi.org/10.33588/rn.7801.2023456
+Vélez Segovia, S. P., & Zambrano Villalba, C. G. (2026). Atención sostenida y comprensión lectora: un enfoque neuropsicológico en población escolar. Revista Pulso Científico, 4(2), 93–104. https://doi.org/10.70577/rps.v4i2.205
+Veraksa, A., Bukhalenkova, D., & Almazova, O. (2021). Executive functions and television viewing in preschoolers. Behavioral Sciences, 11(8), 111. https://doi.org/10.1080/09669760.2022.2091979
+Yépez Alvear, D. I. (2025). Integración de cuentos digitales interactivos basados en saberes ancestrales andinos para fortalecer la identidad cultural y el desarrollo del lenguaje oral en niños de 3 a 5 años en educación inicial. Ciencia Latina Revista Científica Multidisciplinar, 9(5), 17533–17551. https://doi.org/10.37811/cl_rcm.v9i5.21262
+Zheng, Z., Wang, G., & Shen, Y. (2025). Effects of storytelling books to enhance young children's reading comprehension through interactive teaching method. TPM – Testing, Psychometrics, Methodology in Applied Psychology, 32(S6), 1305-1309. https://tpmap.org/submission/index.php/tpm/article/view/2035
+
+Anexos
+
+Anexo 1. Tabla de operacionalización
+
+
+Anexo 2. Instrumentos de recolección de datos
+GUÍA DE OBSERVACIÓN DE LA ATENCIÓN SOSTENIDA 
+Instrucciones: A continuación, encontrará una lista de comportamientos observables relacionados con la atención sostenida del niño durante el desarrollo de actividades basadas en cuentos digitales interactivos. 
+
+
+Anexo 3. Ficha de validación de contenido para el instrumento
+
+Validador N° 1
+
+
+
+Validador N° 2
+
+
+
+
+Validador N° 3
+
+
+
+
+
+Anexo 4. Asentimiento informado
+
+
+
+
+Portafolio de asentimientos: 
+https://drive.google.com/file/d/176jG9dLfqHmouVqsjucoHvyIvnNSNlNd/view
+  
+
+Anexo 5. Consentimiento informado del apoderado
+
+
+
+Portafolio de consentimientos: https://drive.google.com/file/d/14o8AEFX_wQWU7bEjYQpf0bHRR_AATdR3/view?usp=sharing
+
+
+Anexo 6. Solicitud de autorización para realidad la investigación en una institución
+
+Anexo 7. Autorización de uso de información de una institución
+
+
+
+Anexo 8. Resultados del análisis de consistencia interna
+Prueba de validación – V de Aiken
+La validez se realizó mediante el juicio de expertos, tres en total, acerca de la pertinencia de los ítems con relación al constructo evaluado por dimensiones, se utilizó la fórmula de V de Aiken.										
+Donde:																	
+S = la sumativa del SI (1)																
+n = número de jueces																
+c = número de valores de la escala de valoración												
+Los resultados fueron los siguientes:		
+
+La V de Aiken resultó ser 1.00, coeficiente que categoriza al instrumento como altamente valido.
+Prueba de Confiabilidad el Alfa de Cronbach
+Se realizó la prueba piloto en una institución educativa de Trujillo con una muestra piloto de 11 niños, se calculó la confiabilidad de " Cuentos digitales interactivos para fortalecer la atención sostenida en niños de 5 años de una institución educativa de Trujillo, 2026" mediante el método de Alfa de Cronbach, obteniendo como resultado 0.99 que pertenece al rango de 0.72 a 0.99, por lo tanto, el instrumento tiene una excelente confiabilidad, lo cual indica que el instrumento es confiable para su ejecución
+
+
+Anexo 9. Matriz de consistencia
+
+Anexo 10. Reporte de similitud del software Turnitin
+
+
