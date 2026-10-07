@@ -1,7 +1,14 @@
-import Lottie from 'lottie-react';
+import { useLottie } from 'lottie-react';
 import luminaAnimation from '../assets/lumina.json';
 
 export const LuminaLottie = () => {
+  const options = {
+    animationData: luminaAnimation,
+    loop: true,
+  };
+  
+  const { View } = useLottie(options as any);
+
   return (
     <div 
       className="w-full h-full"
@@ -15,7 +22,7 @@ export const LuminaLottie = () => {
         pointerEvents: 'none'
       }}
     >
-      <Lottie animationData={luminaAnimation} loop={true} />
+      {View}
     </div>
   );
 };
