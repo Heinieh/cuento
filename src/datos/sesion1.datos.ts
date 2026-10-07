@@ -119,7 +119,7 @@ export const sesion1: SesionCuento = {
     reto2: {
       id: "reto2",
       imagenFondo: "/assets/sesion1/4.jpeg",
-      videoFondo: "/assets/cuento/bosque.mp4",
+      videoFondo: "/assets/cuento/carpintero.mp4",
       audioAmbiente: "/assets/audio/bosque_pajaro.mp3",
       audioVozNarrador: "/assets/audio/narrador_reto2.mp3",
       objetosInteractivos: [
@@ -154,7 +154,7 @@ export const sesion1: SesionCuento = {
         },
         {
           id: "preguntar",
-          idEscenaDestino: "desenlace",
+          idEscenaDestino: "reto2_consecuencia_exito",
           icono: "Search",
           textoDescriptivo: "Preguntar con curiosidad",
           audioFeedback: "/assets/audio/acierto.mp3"
@@ -164,6 +164,7 @@ export const sesion1: SesionCuento = {
     reto2_consecuencia_error: {
       id: "reto2_consecuencia_error",
       imagenFondo: "/assets/sesion1/4.jpeg",
+      videoFondo: "/assets/cuento/carpintero_taparoidos.mp4",
       audioAmbiente: "/assets/audio/bosque_pajaro.mp3",
       audioVozNarrador: "/assets/audio/narrador_reintento2.mp3",
       tiempoBloqueoMs: 3000,
@@ -174,6 +175,24 @@ export const sesion1: SesionCuento = {
           idEscenaDestino: "reto2",
           icono: "RotateCcw",
           textoDescriptivo: "Volver a intentar",
+          audioFeedback: "/assets/audio/ok.mp3"
+        }
+      ]
+    },
+    reto2_consecuencia_exito: {
+      id: "reto2_consecuencia_exito",
+      imagenFondo: "/assets/sesion1/4.jpeg",
+      videoFondo: "/assets/cuento/carpintero_enredado.mp4",
+      audioAmbiente: "/assets/audio/bosque_ambiente.mp3",
+      audioVozNarrador: "/assets/audio/narrador_reto2_exito.mp3",
+      tiempoBloqueoMs: 4000,
+      tipoInteraccion: "decision_simple",
+      opciones: [
+        {
+          id: "avanzar_desenlace",
+          idEscenaDestino: "desenlace",
+          icono: "ArrowRight",
+          textoDescriptivo: "Finalizar la aventura",
           audioFeedback: "/assets/audio/ok.mp3"
         }
       ]
