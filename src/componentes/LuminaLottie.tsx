@@ -7,7 +7,7 @@ export const LuminaLottie = () => {
     loop: true,
   };
   
-  const { View } = useLottie(options as any);
+  const { View } = useLottie(options as any) as any;
 
   return (
     <div 
