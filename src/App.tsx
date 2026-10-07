@@ -83,37 +83,21 @@ export default function App() {
   if (!iniciado) {
     return (
       <div className="flex flex-col items-center justify-center w-screen h-screen bg-slate-900 text-white p-8">
-        <h1 className="text-5xl font-bold mb-8 text-center bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">
+        <h1 className="text-5xl font-bold mb-4 text-center bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">
           Motor de Cuentos Digitales Interactivos
         </h1>
-        <p className="text-xl text-slate-300 mb-12 max-w-2xl text-center">
-          Taller "Cuentos Atentos" - Basado en la Teoría de la Carga Cognitiva y el Aprendizaje Multimedia para preescolares de 5 años.
+        <p className="text-xl text-slate-300 mb-8 max-w-3xl text-center">
+          Taller "Cuentos Atentos" para fortalecer la atención sostenida mediante cuentos digitales interactivos en niños de 5 años de la Institución Educativa N° 224 Indoamérica, Trujillo - 2026.
         </p>
-        <div className="flex flex-col items-center mb-12 space-y-4">
-          <p className="text-slate-400 font-semibold uppercase tracking-widest text-sm"></p>
-          <div className="flex space-x-4 bg-slate-800 p-2 rounded-full border border-slate-700">
-            {/* 
-            <button
-              onClick={() => setModoCuento('controles')}
-              className={`px-8 py-3 rounded-full font-bold transition-all ${modoCuento === 'controles' ? 'bg-indigo-600 text-white shadow-lg' : 'text-slate-400 hover:text-white'}`}
-            >
-              Cuento Interactivo (Objetos y Arrastre)
-            </button>
-            */}
-            <button
-              onClick={() => setModoCuento('video')}
-              className={`px-8 py-3 rounded-full font-bold transition-all ${modoCuento === 'video' ? 'bg-emerald-600 text-white shadow-lg' : 'text-slate-400 hover:text-white'}`}
-            >
-              Cuento Video (Táctil Cinematográfico)
-            </button>
-          </div>
-        </div>
-
-        <button
+        <button 
           onClick={manejarInicio}
-          className="px-12 py-6 text-3xl font-bold bg-blue-600 hover:bg-blue-500 rounded-full shadow-[0_0_40px_rgba(37,99,235,0.5)] transition-all hover:scale-105"
+          className="group relative rounded-3xl overflow-hidden shadow-[0_0_50px_rgba(52,211,153,0.3)] hover:shadow-[0_0_80px_rgba(52,211,153,0.6)] transition-all duration-300 hover:scale-[1.02] focus:outline-none focus:ring-4 focus:ring-emerald-500 cursor-pointer"
         >
-          INICIAR SESIÓN: {sesion1.titulo.toUpperCase()}
+          <img 
+            src="/assets/cuento/portada.jpg" 
+            alt="Iniciar: Lúmina y el bosque de luz" 
+            className="w-[800px] max-w-[90vw] h-auto object-cover border-4 border-slate-700 rounded-3xl transition-transform duration-300" 
+          />
         </button>
       </div>
     );
@@ -125,8 +109,8 @@ export default function App() {
       <div
         id="contenedor-16-9"
         className="absolute top-1/2 left-1/2 bg-zinc-900 shadow-2xl"
-        style={{ 
-          width: '1920px', 
+        style={{
+          width: '1920px',
           height: '1080px',
           transform: `translate(-50%, -50%) scale(${escala})`,
           transformOrigin: 'center center'
